@@ -2,7 +2,7 @@
 
 Hi, I'm Andy Corrigan
 
-![Photo of Andy Corrigan](https://irisbox.github.com/Teaching-and-Learning-for-Librarians/images/Andy-01.jpg)
+![Photo of Andy Corrigan](images/Andy-01.jpg)
 
 This repository is a testing sand-box for a project I aim to deliver as part of a Teaching and Learning for Librarians course I am currently undetaking. 
 
